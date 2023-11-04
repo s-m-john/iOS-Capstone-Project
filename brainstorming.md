@@ -28,3 +28,6 @@ Have a profile to share with others and share to social media
 
 
 **Final App:** Daily Encouragement App
+
+https://api-ninjas.com/api/quotes
+
