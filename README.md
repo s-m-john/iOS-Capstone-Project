@@ -12,15 +12,15 @@ Overview
 Description
 [Description of your app]
 
-Daily Encouragement App
+# Daily Encouragement App
 
 Welcome to the Daily Encouragement App! 🌟
 
-Description
+# Description
 
 Inject positivity into your day with our Daily Encouragement App. This app is designed to uplift your spirits through inspirational quotes that are generated daily. Whether you're seeking motivation, a pick-me-up, or just a moment of reflection, our app has you covered.
 
-Key Features
+# Key Features
 
 Daily Quotes: Receive a daily dose of inspiration to kickstart your day on a positive note.
 Save Favorites: Collect and save your favorite quotes to revisit whenever you need a boost.
