@@ -55,11 +55,18 @@ App Evaluation
 [Evaluation of your app across the following attributes]
 
 Category: Lifestyle, Health & Wellness, Personal Development. The app falls under the Lifestyle, Health & Wellness, and Personal Development categories. It is designed to enhance users' daily lives by providing a source of inspiration and motivation through daily quotes, fostering positive habits and a sense of community.
+
 Mobile: The app is designed for mobile devices, ensuring a seamless and responsive user experience.
+
 Story: The app aims to provide daily encouragement and motivation through inspirational quotes, fostering a positive and uplifting environment.
+
 Market: (Target Audience) Individuals seeking daily inspiration, motivation, and a sense of community.
+
 Habit: (Daily Engagement) Users are encouraged to open the app daily to receive a new inspirational quote, creating a positive daily habit.
+
 Scope: The app focuses on delivering a simple and effective solution for daily motivation, with features like saving favorite quotes, sharing content, and engaging with the community.
+
+
 
 Product Spec
 1. User Stories (Required and Optional)
@@ -74,6 +81,8 @@ Save Favorite Quotes: Users should have the ability to save their favorite quote
 Share Quotes: Enable users to share quotes on social media platforms and messaging apps.
 Community Interaction: Users can comment on other users' profiles, fostering a sense of community.
 
+
+
 Optional Nice-to-have Stories
 
 [fill in your required user stories here]
@@ -82,6 +91,9 @@ Optional Nice-to-have Stories
 Customization: Allow users to customize their profile and notification preferences.
 Quote Categories: Provide users with the option to explore quotes based on different categories (e.g., motivation, love, success).
 Daily Reminders: Allow users to set reminders to receive their daily quote at a specific time.
+
+
+
 
 2. Screen Archetypes
 [list first screen here]
@@ -121,7 +133,11 @@ Flow Navigation (Screen to Screen)
 ...
 
 Home Screen to Profile Screen: Users can navigate to their profile from the home screen to customize their experience.
+
 Home Screen to Community Screen: Direct access to the community screen for user engagement.
+
+
+
 
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
@@ -132,6 +148,8 @@ Schema
 [This section will be completed in Unit 9]
 
 Video with features: https://imgur.com/a/0iX9WPz.gif
+
+
 
 Models
 [Add table of models]
