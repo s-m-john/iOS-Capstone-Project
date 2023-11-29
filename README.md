@@ -12,7 +12,7 @@ Overview
 Description
 [Description of your app]
 
-# Daily Encouragement App
+## Daily Encouragement App
 
 Welcome to the Daily Encouragement App! 🌟
 
@@ -51,7 +51,7 @@ Thank you for choosing the Daily Encouragement App. Let's inspire and uplift eac
 
 
 
-App Evaluation
+## App Evaluation
 [Evaluation of your app across the following attributes]
 
 Category: Lifestyle, Health & Wellness, Personal Development. The app falls under the Lifestyle, Health & Wellness, and Personal Development categories. It is designed to enhance users' daily lives by providing a source of inspiration and motivation through daily quotes, fostering positive habits and a sense of community.
@@ -139,7 +139,7 @@ Home Screen to Community Screen: Direct access to the community screen for user 
 
 
 
-Wireframes
+# Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
 [BONUS] Digital Wireframes & Mockups
@@ -165,6 +165,7 @@ Schema
 ![Screenshot 2023-11-28 at 9 47 11 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/edfdbab3-fa2a-4e8b-9f6d-d6648bd141c4)
 
 
+
 Video with features: https://imgur.com/a/0iX9WPz.gif
 
 
@@ -176,3 +177,6 @@ Networking
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+
