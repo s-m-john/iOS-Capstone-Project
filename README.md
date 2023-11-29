@@ -12,7 +12,7 @@ Overview
 Description
 [Description of your app]
 
-## Daily Encouragement App
+# Daily Encouragement App
 
 Welcome to the Daily Encouragement App! 🌟
 
@@ -179,4 +179,48 @@ Networking
 [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 
+Home Screen
+Request: Get Daily Quote
+Parse.Cloud.run('getDailyQuote')
+  .then((quote) => {
+    // Handle the received quote
+  })
+  .catch((error) => {
+    // Handle the error
+  });
+
+
+2. Profile Screen
+Request: Get User Profile
+
+Parse.Cloud.run('getUserProfile', { userId: 'user_id' })
+  .then((profile) => {
+    // Handle the received user profile
+  })
+  .catch((error) => {
+    // Handle the error
+  });
+
+3. Favorites Screen
+Request: Get Saved Quotes
+
+Parse.Cloud.run('getSavedQuotes', { userId: 'user_id' })
+  .then((quotes) => {
+    // Handle the received saved quotes
+  })
+  .catch((error) => {
+    // Handle the error
+  });
+
+
+4. Community Screen
+Request: Get Community Posts
+
+Parse.Cloud.run('getCommunityPosts')
+  .then((posts) => {
+    // Handle the received community posts
+  })
+  .catch((error) => {
+    // Handle the error
+  });
 
