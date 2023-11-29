@@ -165,6 +165,7 @@ Schema
 ![Screenshot 2023-11-28 at 9 47 11 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/edfdbab3-fa2a-4e8b-9f6d-d6648bd141c4)
 
 
+Video with features: https://www.loom.com/share/12d73268c28141a0a8db38d02b12935d?sid=0d0b2782-ab4c-44fd-8d76-3ef709bc2268
 
 Video with features: https://imgur.com/a/0iX9WPz.gif
 
