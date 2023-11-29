@@ -147,6 +147,24 @@ Wireframes
 Schema
 [This section will be completed in Unit 9]
 
+![Screenshot 2023-11-28 at 9 48 08 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/7ff7c5c4-b0c7-4fa0-846c-ce8ac0c243dd)
+
+
+![Screenshot 2023-11-28 at 9 46 37 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/908ed0c2-0325-42de-b148-6882ec299795)
+
+
+![Screenshot 2023-11-28 at 9 46 43 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/a9f20dcb-1a18-4dfe-b8c1-e6928356ed70)
+
+
+![Screenshot 2023-11-28 at 9 46 53 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/09ecb5ac-5c10-4014-bac0-46625846efbd)
+
+
+![Screenshot 2023-11-28 at 9 47 02 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/554baa43-9426-4738-a10b-377e33abea23)
+
+
+![Screenshot 2023-11-28 at 9 47 11 PM](https://github.com/s-m-john/iOS-Capstone-Project/assets/107650644/edfdbab3-fa2a-4e8b-9f6d-d6648bd141c4)
+
+
 Video with features: https://imgur.com/a/0iX9WPz.gif
 
 
