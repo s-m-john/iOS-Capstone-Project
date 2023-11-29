@@ -33,13 +33,13 @@ Daily Quotes: Open the app to receive a new inspirational quote every day.
 Save and Share: Save the quotes that resonate with you and share them effortlessly with your network.
 Connect with Others: Explore the community feature to view other users' profiles, comment on their posts, and build a network of positivity.
 
-## Get Started
+# Get Started
 
 Install the App: [Provide download links for the app on different platforms.]
 Create Your Profile: Set up your profile to personalize your experience.
 Start Your Journey: Begin your daily journey of motivation and encouragement.
 
-## Join the Community
+# Join the Community
 
 Connect on Social Media: Follow us on [social media handles] for updates, community highlights, and more.
 Share Your Experience: Use [#DailyEncouragementApp] to share your experiences and connect with the community.
@@ -68,7 +68,7 @@ Scope: The app focuses on delivering a simple and effective solution for daily m
 
 
 
-## Product Spec
+# Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
 
@@ -83,7 +83,7 @@ Community Interaction: Users can comment on other users' profiles, fostering a s
 
 
 
-## Optional Nice-to-have Stories
+# Optional Nice-to-have Stories
 
 [fill in your required user stories here]
 ...
@@ -95,7 +95,7 @@ Daily Reminders: Allow users to set reminders to receive their daily quote at a 
 
 
 
-## 2. Screen Archetypes
+# 2. Screen Archetypes
 [list first screen here]
 [list associated required story here]
 ... list second screen here]
@@ -107,7 +107,7 @@ Favorites Screen: Shows a list of saved favorite quotes.
 Community Screen: Allows users to explore and interact with the community.
 
 
-## 2. Navigation
+# 2. Navigation
 Tab Navigation (Tab to Screen)
 
 [fill out your first tab]
@@ -123,7 +123,7 @@ Community Tab
 
 
 
-## Flow Navigation (Screen to Screen)
+# Flow Navigation (Screen to Screen)
 
 [list first screen here]
 [list screen navigation here]
@@ -170,7 +170,7 @@ Video with features: https://imgur.com/a/0iX9WPz.gif
 
 
 
-## Models
+# Models
 [Add table of models]
 
 Networking
